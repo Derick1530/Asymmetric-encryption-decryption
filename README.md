@@ -9,5 +9,5 @@ you need to run pip install cryptography in your terminal depending on how you u
 then add the file send.txt in the sender's folder
 
 ENJOY 
-here is the full article [https://www.derickzr.com/articles/encryption-decryption-in-python]
+here is the full article [https://www.derickzr.com/writings/encryption-and-decryption]
 
